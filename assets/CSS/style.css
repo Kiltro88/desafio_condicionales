@@ -1,0 +1,14 @@
+
+#bodyPuntoUno{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ #image{
+    width:  fit-content;
+    height:  75vh;
+    object-fit:scale-down;
+}
